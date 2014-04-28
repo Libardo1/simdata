@@ -1,5 +1,12 @@
 #### NOTE: Only bivariate normal simulation is supported at the moment, but it works like a charm!
 
+## Get it:
+
+```
+> install.packages("devtools")
+> devtools::install_github("ncarchedi/simdata")
+```
+
 ## Example session:
 
 ```
