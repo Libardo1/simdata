@@ -1,0 +1,14 @@
+Package: simdata
+Title: Simply simulate multivariate normal data
+Version: 0.1
+Author: Nick Carchedi <nick.carchedi@gmail.com>
+Maintainer: Nick Carchedi <nick.carchedi@gmail.com>
+Description: Simulate multivariate normal data by specifying only a bare
+    minimum amount of information: n, E(X), E(Y), Var(X), Var(Y), and Corr(X,
+    Y). This is useful when creating toy examples for teaching purposes.
+License: GPL-2
+Depends:
+    R (>= 3.0.2)
+Imports:
+    MASS
+Roxygen: list(wrap = FALSE)
