@@ -1,4 +1,4 @@
-Example session:
+## Example session:
 
 ```
 > library(simdata)
