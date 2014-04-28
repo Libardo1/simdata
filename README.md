@@ -1,3 +1,5 @@
+#### NOTE: Only bivariate normal simulation is supported at the moment, but it works like a charm!
+
 ## Example session:
 
 ```
